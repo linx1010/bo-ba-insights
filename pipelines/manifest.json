@@ -6,6 +6,36 @@
     },
     "pipelines":
     [
-        
+        {
+            "pipelineName": "teste",
+            "pipelineDescription": "Pipeline para testagem de subida para o unificado",
+            "outputDataModelName": "",
+            "overlapDeltaMinutes": 3600,
+            "saveToCds": false,
+            "saveToUnified": true,
+            "sendToSubscriptions": true,
+            "cronExpressions":
+            [
+                "0 5,15,25,35,45,56 * * * ?"
+            ],
+            "timeZone": "America/Sao_Paulo",
+            "prepareScripts":
+            [
+            ],
+            "processScript": "pipelines/teste.csql",
+            "sourceEntities":
+            {
+                "dataModels":
+                [
+                ],
+                "stagings":
+                [
+                    {
+                        "connectorName": "protheus_carol",
+                        "stagingName": "ct1"
+                    }
+                ]
+            }
+        }
     ]
 }
