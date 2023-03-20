@@ -1,0 +1,11 @@
+{
+    "defaults":
+    {
+        "cronExpressions":["0 0 0 * * ?"],
+        "prepareScripts":[""]
+    },
+    "pipelines":
+    [
+        
+    ]
+}
