@@ -22,7 +22,7 @@
             "prepareScripts":
             [
             ],
-            "processScript": "pipelines/teste.csql",
+            "processScript": "teste.csql",
             "sourceEntities":
             {
                 "dataModels":
