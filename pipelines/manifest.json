@@ -8,7 +8,7 @@
     [
         {
             "pipelineName": "teste",
-            "pipelineDescription": "Pipeline para testagem de subida para o unificado",
+            "pipelineDescription": "Pipeline temporario, aguardo fix azure",
             "outputDataModelName": "",
             "overlapDeltaMinutes": 3600,
             "saveToCds": false,
