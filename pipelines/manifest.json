@@ -35,7 +35,10 @@
                     {"connectorName": "protheus_carol", "stagingName": "mapping"} ,
                     {"connectorName": "protheus_carol", "stagingName": "organization"} ,
                     {"connectorName": "protheus_carol", "stagingName": "protheus_sharing"} ,
-                    {"connectorName": "protheus_carol", "stagingName": "sb1"}
+                    {"connectorName": "protheus_carol", "stagingName": "sb1"},
+                    {"connectorName": "protheus_carol", "stagingName": "qlb"},
+                    {"connectorName": "protheus_carol", "stagingName": "qlc"},
+                    {"connectorName": "protheus_carol", "stagingName": "qld"}
                 ]
             }
         }
