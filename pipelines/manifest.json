@@ -47,7 +47,6 @@
                     {"connectorName": "protheus_carol", "stagingName": "fk9"},
                     {"connectorName": "protheus_carol", "stagingName": "fka"},
                     {"connectorName": "protheus_carol", "stagingName": "fkb"},
-                    {"connectorName": "protheus_carol", "stagingName": "qld"},
                     {"connectorName": "protheus_carol", "stagingName": "sb1"},
                     {"connectorName": "protheus_carol", "stagingName": "sb2"},
                     {"connectorName": "protheus_carol", "stagingName": "sb9"},
