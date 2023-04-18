@@ -47,7 +47,6 @@
                     {"connectorName": "protheus_carol", "stagingName": "fk9"},
                     {"connectorName": "protheus_carol", "stagingName": "fka"},
                     {"connectorName": "protheus_carol", "stagingName": "fkb"},
-                    {"connectorName": "protheus_carol", "stagingName": "qlb"},
                     {"connectorName": "protheus_carol", "stagingName": "qlc"},
                     {"connectorName": "protheus_carol", "stagingName": "qld"},
                     {"connectorName": "protheus_carol", "stagingName": "sb1"},
@@ -65,6 +64,7 @@
                     {"connectorName": "protheus_carol", "stagingName": "se1"},
                     {"connectorName": "protheus_carol", "stagingName": "se2"},
                     {"connectorName": "protheus_carol", "stagingName": "se5"},
+                    {"connectorName": "protheus_carol", "stagingName": "se8"},
                     {"connectorName": "protheus_carol", "stagingName": "sf1"},
                     {"connectorName": "protheus_carol", "stagingName": "sf2"},
                     {"connectorName": "protheus_carol", "stagingName": "sf4"}
