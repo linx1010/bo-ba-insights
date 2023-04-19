@@ -35,7 +35,7 @@
                     {"connectorName": "protheus_carol", "stagingName": "mapping"} ,
                     {"connectorName": "protheus_carol", "stagingName": "organization"} ,
                     {"connectorName": "protheus_carol", "stagingName": "protheus_sharing"} ,
-                    {"connectorName": "protheus_carol", "stagingName": "cnb"}             
+                    {"connectorName": "protheus_carol", "stagingName": "cn9"}             
                 ]
             }
         }
