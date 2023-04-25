@@ -40,10 +40,6 @@
                     {"connectorName": "protheus_carol", "stagingName": "ab8"} ,
                     {"connectorName": "protheus_carol", "stagingName": "cb7"} ,
                     {"connectorName": "protheus_carol", "stagingName": "cb8"} ,
-                    {"connectorName": "protheus_carol", "stagingName": "cn9"} ,
-                    {"connectorName": "protheus_carol", "stagingName": "cnb"} ,
-                    {"connectorName": "protheus_carol", "stagingName": "cnf"} ,
-                    {"connectorName": "protheus_carol", "stagingName": "cns"} ,
                     {"connectorName": "protheus_carol", "stagingName": "cq0"} ,
                     {"connectorName": "protheus_carol", "stagingName": "cq1"} ,
                     {"connectorName": "protheus_carol", "stagingName": "cq2"} ,
@@ -72,6 +68,10 @@
                     {"connectorName": "protheus_carol", "stagingName": "fk9"} ,
                     {"connectorName": "protheus_carol", "stagingName": "fka"} ,
                     {"connectorName": "protheus_carol", "stagingName": "fkb"} ,
+                    {"connectorName": "protheus_carol", "stagingName": "i13"} ,
+                    {"connectorName": "protheus_carol", "stagingName": "qlb"} ,
+                    {"connectorName": "protheus_carol", "stagingName": "qlc"} ,
+                    {"connectorName": "protheus_carol", "stagingName": "qld"} ,
                     {"connectorName": "protheus_carol", "stagingName": "sb1"} ,
                     {"connectorName": "protheus_carol", "stagingName": "sb2"} ,
                     {"connectorName": "protheus_carol", "stagingName": "sb3"} ,
@@ -100,7 +100,9 @@
                     {"connectorName": "protheus_carol", "stagingName": "sf1"} ,
                     {"connectorName": "protheus_carol", "stagingName": "sf2"} ,
                     {"connectorName": "protheus_carol", "stagingName": "sf4"} ,
-                    {"connectorName": "protheus_carol", "stagingName": "sg1"}
+                    {"connectorName": "protheus_carol", "stagingName": "sg1"} ,
+                    {"connectorName": "protheus_carol", "stagingName": "sx5"}
+                    
                 ]
             }
         }
