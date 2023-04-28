@@ -55,6 +55,7 @@
                     {"connectorName": "protheus_carol", "stagingName": "ct0"} ,
                     {"connectorName": "protheus_carol", "stagingName": "ct1"} ,
                     {"connectorName": "protheus_carol", "stagingName": "ct2"} ,
+                    {"connectorName": "protheus_carol", "stagingName": "ct5"} ,
                     {"connectorName": "protheus_carol", "stagingName": "cto"} ,
                     {"connectorName": "protheus_carol", "stagingName": "cts"} ,
                     {"connectorName": "protheus_carol", "stagingName": "cv0"} ,
