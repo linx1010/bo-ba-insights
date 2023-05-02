@@ -46,6 +46,7 @@
     {"connectorName": "protheus_carol", "stagingName": "qlb"} ,
     {"connectorName": "protheus_carol", "stagingName": "qlc"} ,
     {"connectorName": "protheus_carol", "stagingName": "qld"} ,
+    {"connectorName": "protheus_carol", "stagingName": "sa3"} ,
     {"connectorName": "protheus_carol", "stagingName": "sb1"} ,
     {"connectorName": "protheus_carol", "stagingName": "sb2"} ,
     {"connectorName": "protheus_carol", "stagingName": "sb3"} ,
